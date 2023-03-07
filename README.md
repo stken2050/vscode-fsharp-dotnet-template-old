@@ -1,1 +1,1 @@
-# vscode-remote
+# vscode-fsharp-dotnet-template
